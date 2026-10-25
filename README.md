@@ -7,7 +7,7 @@
 
 Estimation after selection for inverse Gaussian (IG) populations. We select the population with the largest sample mean and estimate its **true** mean $`\mu_S`$ under relative squared error loss.
 
-**Authors:** Author 1, Author 2, School of Data Science, IISER Thiruvananthapuram
+**Authors:** Maitreya Sameer Ganu, Dr. Md. Masihuddin, School of Data Science, IISER Thiruvananthapuram
 
 ---
 
@@ -23,7 +23,6 @@ Estimation after selection for inverse Gaussian (IG) populations. We select the 
 - [Figures](#figures)
 - [Limitations and Extensions](#limitations-and-extensions)
 - [Code Availability](#code-availability)
-- [Citation](#citation)
 
 ---
 
