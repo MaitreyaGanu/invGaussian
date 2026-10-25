@@ -198,17 +198,4 @@ For each measure there are two sets of surfaces over $`(k, n)`$ (both on a log s
 
 ## Code Availability
 
-Code will be released here soon.
-
----
-
-## Citation
-
-```bibtex
-@unpublished{selected_ig_mean,
-  title  = {Estimation of the Mean of a Selected Inverse Gaussian Population under Relative Squared Error Loss},
-  author = {Author 1 and Author 2},
-  note   = {Manuscript, School of Data Science, IISER Thiruvananthapuram},
-  year   = {2026}
-}
-```
+Code is available in codes/IG.py
